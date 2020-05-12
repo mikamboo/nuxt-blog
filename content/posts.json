@@ -1,0 +1,4 @@
+[
+  {"name":"article-1","file":"./content/posts/article-1.md","route":"/posts/article-1"},
+  {"name":"article-2","file":"./content/posts/article-2.md","route":"/posts/article-2"}
+]
